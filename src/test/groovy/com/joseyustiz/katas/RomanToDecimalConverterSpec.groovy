@@ -84,5 +84,6 @@ class RomanToDecimalConverterSpec extends Specification {
         "XC"        | 90
         "CD"        | 400
         "CM"        | 900
+        "CMVII"     | 907
     }
 }
